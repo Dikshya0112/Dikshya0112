@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dikshya0112
+- <h1>Hii👋, I’m Sudikshya Patra</h1>
 - 👀 I’m interested in Web Dev.
 - 🌱 I’m currently learning more on Frontend and started learning Backend.
 - 📫 How to reach me through my LinkedIn - Sudikshya Patra(https://www.linkedin.com/in/sudikshya-p-a8aa04254/)
