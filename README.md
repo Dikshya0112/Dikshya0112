@@ -1,7 +1,9 @@
-- <h1>Hii👋, I’m Sudikshya Patra</h1>
+ <h1>Hii👋, I’m Sudikshya Patra</h1>
+ <u>Currently I am pursuing MCA.</u>
+ <h3>About Me</h3>
 - 👀 I’m interested in Web Dev.
 - 🌱 I’m currently learning more on Frontend and started learning Backend.
-- 📫 How to reach me through my LinkedIn - Sudikshya Patra(https://www.linkedin.com/in/sudikshya-p-a8aa04254/)
+- 📫 How to reach (LinkedIn) - Sudikshya Patra(https://www.linkedin.com/in/sudikshya-p-a8aa04254/)
 
 
 <!---
