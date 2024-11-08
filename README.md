@@ -1,10 +1,11 @@
  <h1>Hii👋, I’m Sudikshya Patra</h1>
  <u>Currently I am pursuing MCA.</u>
- <h3>About Me</h3>
-- 👀 I’m interested in Web Dev.
-- 🌱 I’m currently learning more on Frontend and started learning Backend.
-- 📫 How to reach (LinkedIn) - Sudikshya Patra(https://www.linkedin.com/in/sudikshya-p-a8aa04254/)
-
+ <h2>About Me</h2><hr>
+ <ul>
+ <li>👀 I’m interested in <b>Full Stack Web Dev</b>.</li>
+ <li>🌱 I’m currently learning more on Frontend and started learning Backend.</li>
+ <li>📫 How to reach - sudikshyapatra345@gmail.com </li>
+</ul>
 
 <!---
 Dikshya0112/Dikshya0112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
